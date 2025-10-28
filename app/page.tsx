@@ -5,7 +5,7 @@ export default function Home() {
         <h1>login in this accont </h1>
           <form>
               <input name="email" type="email"  />
-              <button  onClick={}  type="submit">salalmDNAJDNADKJA</button>
+              <button    type="submit">salalmDNAJDNADKJA</button>
               <input type="password" name="password" />
 
           </form>
