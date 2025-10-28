@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -6,7 +5,7 @@ export default function Home() {
         <h1>login in this accont </h1>
           <form>
               <input name="email" type="email"  />
-              <button  onClick={}  type="submit">Login</button>
+              <button  onClick={}  type="submit">salalmDNAJDNADKJA</button>
               <input type="password" name="password" />
 
           </form>
